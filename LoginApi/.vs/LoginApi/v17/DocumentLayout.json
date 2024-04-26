@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cliente\\Documents\\DevMobile\\PassagemParametrosEntreTelas\\LoginApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D1BB2-1BB9-4079-821D-C7420CCE536B}|LoginApi\\LoginApi.csproj|c:\\users\\cliente\\documents\\devmobile\\passagemparametrosentretelas\\loginapi\\loginapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D1BB2-1BB9-4079-821D-C7420CCE536B}|LoginApi\\LoginApi.csproj|solutionrelative:loginapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D1BB2-1BB9-4079-821D-C7420CCE536B}|LoginApi\\LoginApi.csproj|c:\\users\\cliente\\documents\\devmobile\\passagemparametrosentretelas\\loginapi\\loginapi\\services\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D1BB2-1BB9-4079-821D-C7420CCE536B}|LoginApi\\LoginApi.csproj|solutionrelative:loginapi\\services\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D1BB2-1BB9-4079-821D-C7420CCE536B}|LoginApi\\LoginApi.csproj|c:\\users\\cliente\\documents\\devmobile\\passagemparametrosentretelas\\loginapi\\loginapi\\model\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D1BB2-1BB9-4079-821D-C7420CCE536B}|LoginApi\\LoginApi.csproj|solutionrelative:loginapi\\model\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0D1BB2-1BB9-4079-821D-C7420CCE536B}|LoginApi\\LoginApi.csproj|c:\\users\\cliente\\documents\\devmobile\\passagemparametrosentretelas\\loginapi\\loginapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0D1BB2-1BB9-4079-821D-C7420CCE536B}|LoginApi\\LoginApi.csproj|solutionrelative:loginapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Documents\\DevMobile\\PassagemParametrosEntreTelas\\LoginApi\\LoginApi\\Model\\Constant.cs",
+              "RelativeDocumentMoniker": "LoginApi\\Model\\Constant.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Documents\\DevMobile\\PassagemParametrosEntreTelas\\LoginApi\\LoginApi\\Model\\Constant.cs",
+              "RelativeToolTip": "LoginApi\\Model\\Constant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:32:40.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cryptography.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Documents\\DevMobile\\PassagemParametrosEntreTelas\\LoginApi\\LoginApi\\Services\\Cryptography.cs",
+              "RelativeDocumentMoniker": "LoginApi\\Services\\Cryptography.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Documents\\DevMobile\\PassagemParametrosEntreTelas\\LoginApi\\LoginApi\\Services\\Cryptography.cs",
+              "RelativeToolTip": "LoginApi\\Services\\Cryptography.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAIAzwCQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:26:50.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Documents\\DevMobile\\PassagemParametrosEntreTelas\\LoginApi\\LoginApi\\Program.cs",
+              "RelativeDocumentMoniker": "LoginApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Documents\\DevMobile\\PassagemParametrosEntreTelas\\LoginApi\\LoginApi\\Program.cs",
+              "RelativeToolTip": "LoginApi\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:08:09.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Cliente\\Documents\\DevMobile\\PassagemParametrosEntreTelas\\LoginApi\\LoginApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "LoginApi\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Cliente\\Documents\\DevMobile\\PassagemParametrosEntreTelas\\LoginApi\\LoginApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "LoginApi\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:48:52.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
