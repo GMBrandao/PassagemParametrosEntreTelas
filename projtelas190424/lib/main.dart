@@ -60,33 +60,6 @@ class HomeScreen extends StatelessWidget {
   }
 }
 
-// class DetailScreen extends StatelessWidget {
-//   final String data;
-
-//   DetailScreen({required this.data});
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return Scaffold(
-//       appBar: AppBar(
-//         title: Text('Tela de Detalhes'),
-//       ),
-//       body: Center(
-//         child: Column(
-//           mainAxisAlignment: MainAxisAlignment.center,
-//           children: <Widget>[
-//             Text('Dados recebidos: '),
-//             Text(
-//               data,
-//               style: TextStyle(fontSize: 20),
-//             )
-//           ],
-//         ),
-//       ),
-//     );
-//   }
-// }
-
 class HomePage extends StatefulWidget {
   final String data;
 
